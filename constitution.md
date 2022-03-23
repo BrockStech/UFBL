@@ -1,4 +1,4 @@
-# Ultra Competitive Fantasy Baseball League Official Constitution
+# Ultra Fantasy Baseball League Official Constitution
 
 ## League Configuration
 * Teams: TBD (12-16)	
