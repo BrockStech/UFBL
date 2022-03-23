@@ -1,2 +1,2 @@
-# UCFBL
-Ultra Competitive Fantasy Baseball League
+# UFBL
+Ultra Fantasy Baseball League
