@@ -41,7 +41,7 @@
 * 2 weeks per playoff matchup
 
 ## Draft & Keepers
-* Draft order - (5th – 10th, 3th, 4rd, 2nd, 1st, 11th, 12th) 
+* Draft order - (5th – 10th, 3rd, 4th, 2nd, 1st, 11th, 12th) 
 * Keepers: 2 
   * 1 batter (drafted in the 8th round or later)
   * 1 pitcher (drafted in the 8th round or later)
