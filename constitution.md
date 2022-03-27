@@ -6,11 +6,12 @@
 * Cost: $100	
 
 ## Payout
-* First: $1,000	TBD
-* Second: $200 TBD
+* First: $900	(based on 12 team league)
+* Second: $200 (based on 12 team league)
 * Regular Season Winner: $100
-* Side Pot: $100 + investment interest TBD
-  * To win the side pot, you must be the regular season winner & win the UFBL championship in the same season
+* Side Pot: $100 + investment interest
+  * To win the side pot, you must win the UFBL championship in consecutive seasons
+    * Winning three consecutive championships qualifies
   * Otherwise, Funds + any investment interest rollover to the next year
 
 ## Scoring ROTO
@@ -19,7 +20,8 @@
   * Total Bases (TB) 
   * Runs Batted In (RBI)
   * Net Stolen Bases (SBN)  
-  * On Base Pct (OBP)
+  * On Base plus Slugging Pct (OPS)
+  * Strikeouts (K) †
 * Pitching
   * Strikeouts (K)
   * Saves Plus Holds (SVHD)
@@ -38,14 +40,14 @@
 * 2 Weeks Per Playoff Matchup
 
 ## Draft & Keepers
-* Draft Order - (7th – 12th, 5th, 6th, 3rd, 4th, 2nd, 1st, 13th, 14th) 
+* Draft Order - (5th – 10th, 4th, 3rd, 2nd, 1st, 11th, 12th) 
 * Keepers: 2 - TBD 
-  * 1 Batter
-  * 1 Pitcher
+  * 1 Batter (Drafted in the 8th round or later)
+  * 1 Pitcher (Drafted in the 8th round or later)
 
 ## Other
 * Draft pick trades – Can’t trade draft picks.
-* Standings tie breaker - TBD
+* Standings tie breaker - H2H record
 
 ### Collusion is prohibited! 
 *All rules from the previous year are valid, unless stated otherwise in this contract. By joining this fantasy baseball league, you are agreeing to these terms and conditions*
