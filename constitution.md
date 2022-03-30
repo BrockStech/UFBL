@@ -1,13 +1,13 @@
 # Ultra Fantasy Baseball League Official Constitution
 
 ## League Configuration
-* Teams: TBD (12-16)	
+* Teams: TBD (10-12)	
 * Divisions: 2	
 * Cost: $100	
 
 ## Payout
-* First: $900	(based on 12 team league)
-* Second: $200 (based on 12 team league)
+* First: $600	(based on 10 team league)
+* Second: $200 (based on 10 team league)
 * Regular season winner: $100
 * Side pot: $100 + net investment interest
   * To win the side pot, you must win the UFBL championship in consecutive seasons
@@ -41,7 +41,7 @@
 * 2 weeks per playoff matchup
 
 ## Draft & Keepers
-* Draft order - (5th – 10th, 3rd, 4th, 2nd, 1st, 11th, 12th) 
+* Draft order - (5th – 8th, 3rd, 4th, 2nd, 1st, 9th, 10th) 
 * Keepers: 2 
   * 1 batter (drafted in the 8th round or later)
   * 1 pitcher (drafted in the 8th round or later)
