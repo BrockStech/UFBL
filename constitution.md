@@ -43,7 +43,7 @@
 * Minimum innings pitched - 20
 
 ## Draft & Keepers
-* Draft order - (5th – 8th, 3rd, 4th, 2nd, 1st, 9th, 10th) 
+* Draft order - (7th - 14th), 5th, 6th, 4th, 3rd, 2nd, 1st, 15th, 16th) 
 * Keepers: 2 (Reduced to 1 Keeper for 2023 only - batter OR pitcher)
   * 1 batter (drafted in the 8th round or later - must be drafted to qualify)
   * 1 pitcher (drafted in the 8th round or later - must be drafted to qualify)
