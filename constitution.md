@@ -35,10 +35,9 @@
 * Waivers process daily at 10:00 AM EST
 
 ## Playoffs
-* 6 teams make the playoffs	
-* Top team from each division get a R1 bye
-* Next 4 teams are based on overall record
-* The #1 seed selects their R2 matchup
+* 8 teams make the playoffs	
+* Top team from each division are awarded the 1 and 2 seed
+* Next 6 teams are based on overall record
 * 2 weeks per playoff matchup
 * Minimum innings pitched - 20
 
