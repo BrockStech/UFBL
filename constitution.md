@@ -1,13 +1,13 @@
 # Ultra Fantasy Baseball League Official Constitution
 
 ## League Configuration
-* Teams: TBD (16)	
+* Teams: TBD (14)	
 * Divisions: 2	
 * Cost: $100	
 
 ## Payout
-* First: $900
-* Second: $350
+* First: $850
+* Second: $300
 * Third: $150
 * Regular season winner: $100
 * Side pot: $100 + net investment interest
@@ -25,13 +25,13 @@
 * Pitching
   * Strikeouts (K)
   * Saves Plus Holds (SVHD)
-  * Win Percentage (WPCT)
+  * Quality Starts (QS)
   * Earned Run Average (ERA) †
   * Walks plus Hits Per Innings Pitched (WHIP) † 
 
 ## Acquisition and Waiver Rules
 * Wavier wire by priority
-* Matchup acquisition limit - 7 per matchup (for 7-day matchups)
+* Matchup acquisition limit - 10 per matchup (for 10-day matchups)
 * Waivers process daily at 10:00 AM EST
 
 ## Playoffs
@@ -39,18 +39,18 @@
 * Top team from each division are awarded the 1 and 2 seed
 * Next 6 teams are based on overall record
 * 2 weeks per playoff matchup
-* Minimum innings pitched - 20
+* Minimum innings pitched - 50
 
 ## Draft & Keepers
-* Draft order - (7th - 14th), 5th, 6th, 4th, 3rd, 2nd, 1st, 15th, 16th) 
+* Lottery odds order - (7th - 14th), 5th, 6th, 4th, 3rd, 2nd, 1st, 15th, 16th) 
 * Keepers: 2 (Reduced to 1 Keeper for 2023 only - batter OR pitcher)
   * 1 batter (drafted in the 8th round or later - must be drafted to qualify)
   * 1 pitcher (drafted in the 8th round or later - must be drafted to qualify)
-* Draft order determined by March Madness bracket
+* Draft order determined by lottery.
 
 ## Other
 * Draft pick trades – can’t trade draft picks
-* Standings tie breaker - H2H record > full season ROTO
+* Standings tie breaker - ESPN default
 
 ### Collusion is prohibited! 
 *All rules from the previous year are valid, unless stated otherwise in this contract. By joining this fantasy baseball league, you are agreeing to these terms and conditions*
