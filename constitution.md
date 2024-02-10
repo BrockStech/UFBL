@@ -42,10 +42,11 @@
 * Minimum innings pitched - 50
 
 ## Draft & Keepers
-* Lottery odds order - (7th - 14th), 5th, 6th, 4th, 3rd, 2nd, 1st, 15th, 16th) 
-* Keepers: 2 (Reduced to 1 Keeper for 2023 only - batter OR pitcher)
-  * 1 batter (drafted in the 8th round or later - must be drafted to qualify)
-  * 1 pitcher (drafted in the 8th round or later - must be drafted to qualify)
+* Lottery odds order - (7th - 13th), 5th, 6th, 4th, 3rd, 2nd, 1st, 14th) 
+* Keepers: 2
+  * 1 batter (drafted in the 8th round or later - must be drafted to qualify - does not have to be drafted by you)
+  * 1 pitcher (drafted in the 8th round or later - must be drafted to qualify - does not have to be drafted by you)
+* Players kept the previous year may be kept again if the round they were kept in divided by two is greater than or equal to the 8th round. They'd then be kept in the new divided round. 
 * Draft order determined by lottery.
 
 ## Other
