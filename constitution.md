@@ -1,13 +1,13 @@
 # Ultra Fantasy Baseball League Official Constitution
 
 ## League Configuration
-* Teams: TBD (14)	
-* Divisions: 2	
+* Teams: TBD (13)	
+* Divisions: None
 * Cost: $100	
 
 ## Payout
-* First: $850
-* Second: $300
+* First: $800
+* Second: $250
 * Third: $150
 * Regular season winner: $100
 * Side pot: $100 + net investment interest
@@ -35,14 +35,13 @@
 * Waivers process daily at 10:00 AM EST
 
 ## Playoffs
-* 8 teams make the playoffs	
-* Top team from each division are awarded the 1 and 2 seed
-* Next 6 teams are based on overall record
+* 7 teams make the playoffs
+* Seeding is based on overall record
 * 2 weeks per playoff matchup
 * Minimum innings pitched - 50
 
 ## Draft & Keepers
-* Lottery odds order - (7th - 13th), 5th, 6th, 4th, 3rd, 2nd, 1st, 14th) 
+* Lottery odds order - (8th - 12th), 7th, 5th, 6th, 4th, 3rd, 2nd, 1st, 13th) 
 * Keepers: 2
   * 1 batter (drafted in the 8th round or later - must be drafted to qualify - does not have to be drafted by you)
   * 1 pitcher (drafted in the 8th round or later - must be drafted to qualify - does not have to be drafted by you)
