@@ -6,7 +6,7 @@
 * Cost: $100	
 
 ## Payout
-* First: $800
+* First: $700
 * Second: $250
 * Third: $150
 * Regular season winner: $100
@@ -35,7 +35,7 @@
 * Waivers process daily at 10:00 AM EST
 
 ## Playoffs
-* 7 teams make the playoffs
+* 6 teams make the playoffs
 * Seeding is based on overall record
 * 2 weeks per playoff matchup
 * Minimum innings pitched - 50
