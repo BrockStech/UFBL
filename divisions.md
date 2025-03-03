@@ -2,15 +2,12 @@
 
 ### East 
 - Brock Stechschulte
-- Cameron Roth
-- David Wendling
 - Jack Wick
 - James Stechschulte
 - Kyle Shoup
 - Anthony Dietz
 - Kyle Roepken
-- Luke Stechschulte
-- Marshal Hubbard 
-- Ryan Balent
+- Marshal Hubbard
 - Sam Bornhorst
+- Tom Mangin
 - Zach Balsiger
